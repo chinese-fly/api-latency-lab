@@ -6,7 +6,7 @@ A list endpoint with an N+1 query problem, the rewrite that removes it, and a lo
 
 ```bash
 python bench/bench.py --threads 8 --requests 40
-python -m unittest discover -s tests    # 7 tests
+python -m unittest      # 7 tests
 ```
 
 No dependencies. Python 3.10+.

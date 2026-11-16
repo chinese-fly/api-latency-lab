@@ -6,7 +6,7 @@
 
 ```bash
 python bench/bench.py --threads 8 --requests 40
-python -m unittest discover -s tests    # 7 tests
+python -m unittest      # 7 tests
 ```
 
 零依赖。Python 3.10+。
