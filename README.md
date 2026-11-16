@@ -1,5 +1,7 @@
 # api-latency-lab
 
+English | [简体中文](README.zh-CN.md)
+
 A list endpoint with an N+1 query problem, the rewrite that removes it, and a load test that measures both so the claim is a number instead of a feeling.
 
 ```bash
